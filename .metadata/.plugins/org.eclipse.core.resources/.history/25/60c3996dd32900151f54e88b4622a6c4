@@ -1,0 +1,13 @@
+package com.test.decorator;
+
+public class Disk extends computerDecorator{
+
+	public Disk() {
+		
+	}
+
+	@Override
+	public void description() {
+		
+	}
+}

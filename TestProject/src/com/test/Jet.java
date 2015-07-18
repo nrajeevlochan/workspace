@@ -1,0 +1,8 @@
+package com.test;
+
+public class Jet extends Vehicle {
+
+	public Jet() {
+		SetgoMethod(new goIsFlying());
+	}
+}

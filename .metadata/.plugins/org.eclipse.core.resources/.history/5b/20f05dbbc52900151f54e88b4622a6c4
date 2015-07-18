@@ -1,0 +1,13 @@
+package com.test;
+
+public class Car {
+
+	public Car() {
+		
+	}
+	
+	public void go() {
+		System.out.println("This is Car class");
+	}
+
+}

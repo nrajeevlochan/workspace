@@ -1,0 +1,8 @@
+package com.test.decorator;
+
+public class Disk extends computerDecorator{
+
+	public Disk() {
+		
+	}
+}

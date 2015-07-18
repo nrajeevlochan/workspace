@@ -1,0 +1,7 @@
+package com.test.decorator;
+
+public abstract class computerDecorator {
+	public void description() {
+		
+	}
+}

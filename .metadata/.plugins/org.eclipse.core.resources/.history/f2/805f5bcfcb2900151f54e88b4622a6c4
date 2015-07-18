@@ -1,0 +1,17 @@
+package com.test;
+
+public class Vehicle {
+	private ChangingCode mCc;
+	public Vehicle() {
+		
+	}
+	
+	public void SetgoMethod(ChangingCode cc) {
+		this.mCc = cc;
+	}
+	
+	public void go() {
+		System.out.println("Now i am Driving!!");
+	}
+
+}

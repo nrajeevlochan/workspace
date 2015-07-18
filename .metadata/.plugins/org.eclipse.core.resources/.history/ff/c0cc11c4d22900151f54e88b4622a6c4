@@ -1,0 +1,9 @@
+package com.test.decorator;
+
+public class Disk {
+
+	public Disk() {
+		
+	}
+
+}

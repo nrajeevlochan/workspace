@@ -1,0 +1,9 @@
+package com.test;
+
+public class goIsFlying {
+
+	public goIsFlying() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

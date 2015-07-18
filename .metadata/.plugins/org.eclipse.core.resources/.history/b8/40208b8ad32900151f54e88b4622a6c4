@@ -1,0 +1,12 @@
+package com.test.decorator;
+
+public class Computer {
+
+	public Computer() {
+		
+	}
+	
+	public String description() {
+		System.out.println("This is new computer");
+	}
+}
