@@ -10,6 +10,7 @@ public class LinkedStack<E> implements Stack<E>{
     @Override
     public void push(E e) {
         singleList.addFirst(e);
+        
     }
 
     @Override
